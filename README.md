@@ -1,6 +1,6 @@
 # creditcard-crystal-radio
 
-![jpg1](https://github.com/cheungbx/creditcard-crystal-radio/blob/master/credit Card Crystal Radio.JPG) 
+![jpg1](https://github.com/cheungbx/creditcard-crystal-radio/blob/master/credit%20Card%20Crystal%20Radio.JPG) 
 
 creditcard crystal radio
 #
