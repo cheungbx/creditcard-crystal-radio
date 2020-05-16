@@ -1,4 +1,7 @@
 # creditcard-crystal-radio
+
+![jpg1](https://github.com/cheungbx/creditcard-crystal-radio/blob/master/credit Card Crystal Radio.JPG) 
+
 creditcard crystal radio
 #
 This is a crystal radio project for a very tiny crystal radio built on a few unused credit cards.
